@@ -1,5 +1,5 @@
 # 2025 Midterm Election Results Visualization
-
+[[screenshot.png]]
 ## Overview
 ### This repository provides tools for visualizing the results of the 2025 Midterm elections. It includes a Python notebook for data preprocessing and visualization, along with an election dataset and a GeoJSON map of the Philippines.
 Contents
