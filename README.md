@@ -13,10 +13,6 @@ Ensure you have the following Python libraries installed before running the note
 - matplotlib – Plotting library.
 - plotly – Interactive data visualization.
 - dash – Web-based dashboards for interactive election result visualization.
-You can install them using:
-'''Bash
-pip install pandas seaborn matplotlib plotly dash
-'''
 ## Usage
 - Load the election dataset in the jupyter notebook.
 - Preprocess the data using pandas, filtering and structuring it as needed.
